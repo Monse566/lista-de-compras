@@ -1,4 +1,4 @@
-# lista-de-compras
+# lista-de-compras-con-bootstrap
 
 Lista de comprar con bootstrap
 falta hacer que funcione y agregarle estilos nice
