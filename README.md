@@ -1,1 +1,1 @@
-##lista de compras hecha con Bootstrap y html 
+##lista de compras hecha con Bootstrap
