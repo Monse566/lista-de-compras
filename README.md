@@ -1,1 +1,1 @@
-####lista de compras hecha con Bootstrap
+####lista de compras y hecha con Bootstrap
